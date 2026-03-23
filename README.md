@@ -34,7 +34,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,tailwind" alt="Front-end aprendiendo" />
   <br/>
-  <sub>📚 Aprendiendo</sub>
+  <sub>📚 Aprendiendo...</sub>
 </div>
 
 <br/>
@@ -52,7 +52,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,nodejs,nextjs" alt="Back-end aprendiendo" />
   <br/>
-  <sub>📚 Aprendiendo</sub>
+  <sub>📚 Aprendiendo...</sub>
 </div>
 
 <br/>
@@ -68,7 +68,7 @@
 ### 📋 Metodologías
 
 <div align="center">
-  <sub>📚 Aprendiendo</sub><br/><br/>
+  <sub>📚 Aprendiendo...</sub><br/><br/>
   <img alt="Agile/Scrum" src="https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img alt="Kanban" src="https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
 </div>
