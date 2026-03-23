@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hola, soy [Tu Nombre]
 
-<!--
-**memito120/memito120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador(a) de software apasionado/a por [tu tecnología/intereses principales]. 
+Especialización en [tus campos principales, por ejemplo: desarrollo web, backend, inteligencia artificial].
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Proyecto 1](enlace-al-proyecto): Breve descripción.
+- [Proyecto 2](enlace-al-proyecto): Breve descripción.
+
+## 💼 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](tu-linkedin)
+[![Portafolio](https://img.shields.io/badge/-Portafolio-black?style=flat-square)](tu-portafolio)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square)](mailto:tu@email.com)
+
+---
+
