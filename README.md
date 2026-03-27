@@ -7,7 +7,7 @@
 <h1 align="center">Guillermo Delgado</h1>
 
 <p align="center">
-  <strong>Desarrollador Front-End · Analista Programador · Soporte IT</strong>
+  <strong>Desarrollador Front-End jr · Analista Programador · Soporte IT</strong>
 </p>
 
 <p align="center">
